@@ -298,3 +298,21 @@ Collectively, these assignments contribute to a professional portfolio demonstra
 - Environmental and community engagement
 
 The portfolio serves as evidence that graduates can move beyond understanding justice systems to actively evaluating, governing, and improving them.
+
+---
+
+## Navigation
+
+- [Home](index.md)
+- [Overview](overview.md)
+- [Curriculum Philosophy](curriculum-philosophy.md)
+- [Vision Statement](vision-statement.md)
+- [Seven Pillars](seven-pillars.md)
+- [Learning Outcomes](learning-outcomes.md)
+- [Course Alignment](course-alignment.md)
+- [Signature Assignments](signature-assignments.md)
+- [Environmental Justice Lab](environmental-justice-lab.md)
+- [About the Author](about-author.md)
+- [Roadmap](roadmap.md)
+
+
