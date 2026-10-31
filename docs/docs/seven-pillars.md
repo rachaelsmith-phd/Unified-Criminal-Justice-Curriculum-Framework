@@ -230,3 +230,20 @@ Students investigate the intersections of environmental stewardship, technology,
 While each pillar represents a distinct area of emphasis, the strength of the framework lies in their integration. Ethical reasoning informs technological innovation. Understanding systems requires examining power and inequality. Environmental justice requires human-centered solutions. Effective leadership depends upon balancing innovation with accountability.
 
 Together, these seven pillars create a unified framework for preparing criminal justice professionals capable of leading ethically, critically, and creatively in an increasingly technological and interconnected world.
+
+---
+
+## Navigation
+
+- [Home](index.md)
+- [Overview](overview.md)
+- [Curriculum Philosophy](curriculum-philosophy.md)
+- [Vision Statement](vision-statement.md)
+- [Seven Pillars](seven-pillars.md)
+- [Learning Outcomes](learning-outcomes.md)
+- [Course Alignment](course-alignment.md)
+- [Signature Assignments](signature-assignments.md)
+- [Environmental Justice Lab](environmental-justice-lab.md)
+- [About the Author](about-author.md)
+- [Roadmap](roadmap.md)
+
