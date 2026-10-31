@@ -215,3 +215,21 @@ Future initiatives may include:
 The Environmental Justice Laboratory seeks to expand how criminal justice education understands safety, harm, responsibility, and justice by recognizing the growing influence of environmental systems on community well-being.
 
 The long-term goal is to prepare future professionals capable of addressing the interconnected challenges of environmental sustainability, technological change, social vulnerability, and justice in the twenty-first century.
+
+---
+
+## Navigation
+
+- [Home](index.md)
+- [Overview](overview.md)
+- [Curriculum Philosophy](curriculum-philosophy.md)
+- [Vision Statement](vision-statement.md)
+- [Seven Pillars](seven-pillars.md)
+- [Learning Outcomes](learning-outcomes.md)
+- [Course Alignment](course-alignment.md)
+- [Signature Assignments](signature-assignments.md)
+- [Environmental Justice Lab](environmental-justice-lab.md)
+- [About the Author](about-author.md)
+- [Roadmap](roadmap.md)
+
+
