@@ -10,6 +10,16 @@ Developed by Rachael B. Smith
 
 The criminal justice profession is undergoing profound transformation. Artificial intelligence, algorithmic decision-making, predictive analytics, digital evidence, platform economies, and emerging technologies increasingly influence justice institutions and public policy.
 
+                    JUSTICE
+                        ▲
+                        │
+     POWER ◄────────────┼────────────► TECHNOLOGY
+                        │
+                        ▼
+                  HUMAN AGENCY
+
+            ENVIRONMENT ● INNOVATION
+
 This framework proposes an integrated approach that embeds ethical reasoning, technological literacy, human-centered design, environmental justice, and professional responsibility throughout the criminal justice curriculum.
 
 ## Explore the Framework
