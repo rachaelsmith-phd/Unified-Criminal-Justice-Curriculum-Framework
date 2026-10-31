@@ -30,3 +30,20 @@ The result is a developmental curriculum that progressively prepares students to
 
 | Course | I | II | III | IV | V | VI | VII |
 |----------|:--
+
+---
+
+## Navigation
+
+- [Home](index.md)
+- [Overview](overview.md)
+- [Curriculum Philosophy](curriculum-philosophy.md)
+- [Vision Statement](vision-statement.md)
+- [Seven Pillars](seven-pillars.md)
+- [Learning Outcomes](learning-outcomes.md)
+- [Course Alignment](course-alignment.md)
+- [Signature Assignments](signature-assignments.md)
+- [Environmental Justice Lab](environmental-justice-lab.md)
+- [About the Author](about-author.md)
+- [Roadmap](roadmap.md)
+
