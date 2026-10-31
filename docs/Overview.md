@@ -28,3 +28,17 @@ The curriculum is built around the belief that graduates should be able to:
 - Navigate AI governance
 - Design human-centered solutions
 - Promote environmental and community well-being
+
+## Navigation
+
+- [Home](https://rachaelsmith-phd.github.io/Unified-Criminal-Justice-Curriculum-Framework/)
+- [Overview](https://rachaelsmith-phd.github.io/Unified-Criminal-Justice-Curriculum-Framework/overview)
+- [Curriculum Philosophy](https://rachaelsmith-phd.github.io/Unified-Criminal-Justice-Curriculum-Framework/curriculum-philosophy)
+- [Vision Statement](https://rachaelsmith-phd.github.io/Unified-Criminal-Justice-Curriculum-Framework/vision-statement)
+- [Seven Pillars](https://rachaelsmith-phd.github.io/Unified-Criminal-Justice-Curriculum-Framework/seven-pillars)
+- [Learning Outcomes](https://rachaelsmith-phd.github.io/Unified-Criminal-Justice-Curriculum-Framework/learning-outcomes)
+- [Course Alignment](https://rachaelsmith-phd.github.io/Unified-Criminal-Justice-Curriculum-Framework/course-alignment)
+- [Signature Assignments](https://rachaelsmith-phd.github.io/Unified-Criminal-Justice-Curriculum-Framework/signature-assignments)
+- [Environmental Justice Lab](https://rachaelsmith-phd.github.io/Unified-Criminal-Justice-Curriculum-Framework/environmental-justice-lab)
+- [About the Author](https://rachaelsmith-phd.github.io/Unified-Criminal-Justice-Curriculum-Framework/about-author)
+- [Roadmap](https://rachaelsmith-phd.github.io/Unified-Criminal-Justice-Curriculum-Framework/roadmap)
