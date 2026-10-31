@@ -9,3 +9,19 @@ Through the integration of ethics, technological literacy, environmental steward
 The long-term vision is to create justice professionals who are not merely participants in existing systems, but thoughtful leaders capable of advancing more just, ethical, resilient, and human-centered futures. By fostering critical inquiry, moral courage, technological competence, and civic responsibility, this framework prepares graduates to address the emerging challenges of the twenty-first century while preserving the fundamental values upon which justice depends.
 
 Justice systems will continue to evolve. Technologies will continue to advance. Communities will continue to face new social and environmental challenges. The enduring purpose of this curriculum is to ensure that human dignity, ethical responsibility, and the pursuit of justice remain at the center of that evolution.
+
+---
+
+## Navigation
+
+- [Home](index.md)
+- [Overview](overview.md)
+- [Curriculum Philosophy](curriculum-philosophy.md)
+- [Vision Statement](vision-statement.md)
+- [Seven Pillars](seven-pillars.md)
+- [Learning Outcomes](learning-outcomes.md)
+- [Course Alignment](course-alignment.md)
+- [Signature Assignments](signature-assignments.md)
+- [Environmental Justice Lab](environmental-justice-lab.md)
+- [About the Author](about-author.md)
+- [Roadmap](roadmap.md)
