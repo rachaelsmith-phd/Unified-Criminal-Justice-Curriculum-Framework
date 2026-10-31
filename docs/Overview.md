@@ -32,7 +32,7 @@ The curriculum is built around the belief that graduates should be able to:
 ## Navigation
 
 - [Home](https://rachaelsmith-phd.github.io/Unified-Criminal-Justice-Curriculum-Framework/)
-- [Overview](https://rachaelsmith-phd.github.io/Unified-Criminal-Justice-Curriculum-Framework/overview)
+- [Overview][(https://github.com/rachaelsmith-phd/Unified-Criminal-Justice-Curriculum-Framework/blob/main/docs/Overview.md)
 - [Curriculum Philosophy](https://rachaelsmith-phd.github.io/Unified-Criminal-Justice-Curriculum-Framework/curriculum-philosophy)
 - [Vision Statement](https://rachaelsmith-phd.github.io/Unified-Criminal-Justice-Curriculum-Framework/vision-statement)
 - [Seven Pillars](https://rachaelsmith-phd.github.io/Unified-Criminal-Justice-Curriculum-Framework/seven-pillars)
