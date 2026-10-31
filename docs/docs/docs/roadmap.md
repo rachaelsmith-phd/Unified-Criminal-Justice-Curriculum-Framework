@@ -154,3 +154,20 @@ The framework seeks to prepare future professionals who are capable of leading e
 **Version 1.0 – Working Draft**
 
 Actively seeking feedback from educators, practitioners, researchers, and community partners.
+
+---
+
+## Navigation
+
+- [Home](index.md)
+- [Overview](overview.md)
+- [Curriculum Philosophy](curriculum-philosophy.md)
+- [Vision Statement](vision-statement.md)
+- [Seven Pillars](seven-pillars.md)
+- [Learning Outcomes](learning-outcomes.md)
+- [Course Alignment](course-alignment.md)
+- [Signature Assignments](signature-assignments.md)
+- [Environmental Justice Lab](environmental-justice-lab.md)
+- [About the Author](about-author.md)
+- [Roadmap](roadmap.md)
+
