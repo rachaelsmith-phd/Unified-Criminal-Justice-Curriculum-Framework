@@ -1,0 +1,11 @@
+# Vision Statement
+
+The purpose of criminal justice education is no longer simply to prepare students to operate within existing justice systems. In an era defined by artificial intelligence, technological disruption, environmental uncertainty, and growing demands for accountability, the responsibility of criminal justice education is far greater.
+
+This framework envisions a new generation of criminal justice professionals, scholars, policymakers, educators, advocates, and community leaders who possess the knowledge, skills, and ethical judgment necessary to critically evaluate, ethically govern, and innovatively improve justice systems. Graduates must be prepared not only to understand how institutions function, but also to examine how power, technology, policy, and social conditions shape justice outcomes.
+
+Through the integration of ethics, technological literacy, environmental stewardship, human-centered design, and community engagement, this curriculum seeks to develop reflective practitioners capable of navigating complexity while maintaining commitments to fairness, accountability, equity, and human dignity.
+
+The long-term vision is to create justice professionals who are not merely participants in existing systems, but thoughtful leaders capable of advancing more just, ethical, resilient, and human-centered futures. By fostering critical inquiry, moral courage, technological competence, and civic responsibility, this framework prepares graduates to address the emerging challenges of the twenty-first century while preserving the fundamental values upon which justice depends.
+
+Justice systems will continue to evolve. Technologies will continue to advance. Communities will continue to face new social and environmental challenges. The enduring purpose of this curriculum is to ensure that human dignity, ethical responsibility, and the pursuit of justice remain at the center of that evolution.
