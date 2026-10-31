@@ -18,7 +18,7 @@ Developed by Rachael B. Smith, Ph.D. Candidate in Curriculum & Instruction, the 
 
 ## Project Website
 
-[View the Curriculum Framework](https://rachaelsmith-phd.github.io/Unified-Criminal-Justice-Curriculum-Framework/)
+[View the Seven Pillars of a Unified Criminal Justice Curriculum Framework](https://rachaelsmith-phd.github.io/Unified-Criminal-Justice-Curriculum-Framework/)
 
 ## Repository Structure
 
