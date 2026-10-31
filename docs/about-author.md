@@ -59,3 +59,17 @@ Developer of the Unified Criminal Justice Curriculum Framework and multiple inte
 The Unified Criminal Justice Curriculum Framework emerged from the convergence of these professional experiences, scholarly interests, and doctoral studies. It represents an effort to reimagine criminal justice education for a future in which technological innovation, ethical responsibility, environmental sustainability, and human dignity must be addressed together rather than as separate concerns.
 
 Through this project, Smith seeks to advance curriculum models that prepare future practitioners, educators, policymakers, researchers, and community leaders to navigate complexity while preserving commitments to justice, accountability, and human dignity.
+
+## Navigation
+
+- [Home](https://rachaelsmith-phd.github.io/Unified-Criminal-Justice-Curriculum-Framework/)
+- [Overview](https://rachaelsmith-phd.github.io/Unified-Criminal-Justice-Curriculum-Framework/overview)
+- [Curriculum Philosophy](https://rachaelsmith-phd.github.io/Unified-Criminal-Justice-Curriculum-Framework/curriculum-philosophy)
+- [Vision Statement](https://rachaelsmith-phd.github.io/Unified-Criminal-Justice-Curriculum-Framework/vision-statement)
+- [Seven Pillars](https://rachaelsmith-phd.github.io/Unified-Criminal-Justice-Curriculum-Framework/seven-pillars)
+- [Learning Outcomes](https://rachaelsmith-phd.github.io/Unified-Criminal-Justice-Curriculum-Framework/learning-outcomes)
+- [Course Alignment](https://rachaelsmith-phd.github.io/Unified-Criminal-Justice-Curriculum-Framework/course-alignment)
+- [Signature Assignments](https://rachaelsmith-phd.github.io/Unified-Criminal-Justice-Curriculum-Framework/signature-assignments)
+- [Environmental Justice Lab](https://rachaelsmith-phd.github.io/Unified-Criminal-Justice-Curriculum-Framework/environmental-justice-lab)
+- [About the Author](https://rachaelsmith-phd.github.io/Unified-Criminal-Justice-Curriculum-Framework/about-author)
+- [Roadmap](https://rachaelsmith-phd.github.io/Unified-Criminal-Justice-Curriculum-Framework/roadmap)
